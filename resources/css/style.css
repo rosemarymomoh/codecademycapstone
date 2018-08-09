@@ -2,7 +2,6 @@ html{
   font-family: 'Quicksand', sans-serif;
   font-size: 16px;
   overflow-x: hidden;
-  /* box-sizing: border-box; */
 }
 .main-content{
   position: relative;
@@ -164,7 +163,7 @@ nav li:hover{
 #banner-section .button a{
   font-size:1.25rem;
   background-color: #00001a;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 10px;
   color: white;
 
@@ -375,7 +374,6 @@ nav li:hover{
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: bold;
   font-size: 2.25rem;
-  /* text-align: center; */
 }
 
 .coursesoutline {
@@ -399,7 +397,6 @@ nav li:hover{
   width:30%;
   margin: 2rem;
   background-color: #ffffff;
-  /* padding: 1rem 1rem; */
 }
 
 
@@ -409,8 +406,6 @@ nav li:hover{
   padding-bottom: 1rem;
 }
 .coursetxt{
-  /* padding-bottom: 1.5rem;
-  padding-left: 2rem; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -503,7 +498,6 @@ nav li:hover{
 .feature-image img{
  margin: 1rem 1rem;
  width: 100%;
- /* margin-bottom: 2rem; */
 }
 
 .thesis-left h2{
@@ -579,7 +573,6 @@ video{
 }
 
 .thesis.fisma{
-  /* padding: 0 1rem;  */
   background-color: #FAF0E6;
 }
 
