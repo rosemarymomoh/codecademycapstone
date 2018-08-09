@@ -435,7 +435,7 @@ nav li:hover{
   display: none;
 }
 
-@media only screen and (max-width: 850px){
+@media only screen and (max-width: 1000px){
   #learning-section .learndesktop{
     display: none;
   }
@@ -554,7 +554,7 @@ nav li:hover{
   transition: background-color 400ms ease-in 0s;
 }
 
-@media only screen and (max-width: 850px){
+@media only screen and (max-width: 1000px){
   .thesis-right{
     display: none;
   }
@@ -604,7 +604,7 @@ footer nav li a {
  color: #4a4a4a;
 }
 
-@media only screen and (max-width: 850px){
+@media only screen and (max-width: 1000px){
   footer nav ul{
     display: none;
   }
